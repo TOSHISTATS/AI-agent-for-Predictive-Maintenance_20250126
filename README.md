@@ -17,7 +17,8 @@ AI-agent-for-Predictive Maintenance to identify potential  before it actually ha
   ## AI agent behavior 
 
 - Write prompt  （プロンプト作成）
-![Screenshot 2025-01-26 15 49 44](https://github.com/user-attachments/assets/4951e817-0c87-412d-a976-568b631c316e)
+![Screenshot 2025-01-27 00 30 30](https://github.com/user-attachments/assets/9788965b-8e4a-40ac-9db6-d4c62df4ba7b)
+
 
 - identify 10 potential machine failure （10個の潜在故障プロダクト特定）
   ![Screenshot 2025-01-27 00 26 52](https://github.com/user-attachments/assets/5cb6b9c7-c027-4ff1-9c48-651135194da1)
