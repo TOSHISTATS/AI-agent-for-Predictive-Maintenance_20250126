@@ -20,8 +20,8 @@ AI-agent-for-Predictive Maintenance to identify potential  before it actually ha
 ![Screenshot 2025-01-26 15 49 44](https://github.com/user-attachments/assets/4951e817-0c87-412d-a976-568b631c316e)
 
 - identify 10 potential machine failure （10個の潜在故障プロダクト特定）
-  
-![Screenshot 2025-01-26 12 00 53](https://github.com/user-attachments/assets/e972807c-3706-47de-a1f0-21e1457f162d)
+  ![Screenshot 2025-01-27 00 26 52](https://github.com/user-attachments/assets/5cb6b9c7-c027-4ff1-9c48-651135194da1)
+![Screenshot 2025-01-27 00 27 22](https://github.com/user-attachments/assets/aa74b80a-82d2-48f4-abb5-bc38d810604c)
 
 
 
