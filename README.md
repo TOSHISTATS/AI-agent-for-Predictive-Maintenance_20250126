@@ -27,13 +27,11 @@ AI-agent-for-Predictive Maintenance to identify potential  before it actually ha
 - Data used for analysis ※  （分析用データ）
 ![Screenshot 2025-01-27 08 37 15](https://github.com/user-attachments/assets/82d19502-34af-4bfd-8362-1b0407459384)
 
-
+※　Data can be obtained from this site. https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
 
 
 @Misc{smolagents, title = {smolagents: a smol library to build great agentic systems.}, author = {Aymeric Roucher and Albert Villanova del Moral and Thomas Wolf and Leandro von Werra and Erik Kaunismäki}, howpublished = {\url{https://github.com/huggingface/smolagents}}, year = {2025} }
-
-※　Data can be obtained from this site. https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 
 Copyright © 2025 ToshiStats Co.,Ltd. All right reserved
 
