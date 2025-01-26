@@ -18,21 +18,11 @@ AI-agent-for-Predictive Maintenance to identify potential  before it acttually h
 
 - Write prompt  （プロンプト作成）
   
-![Screenshot 2025-01-26 00 03 27](https://github.com/user-attachments/assets/78b8fd02-8c15-4539-83eb-de141efffda7)
+  ![Screenshot 2025-01-26 12 02 05](https://github.com/user-attachments/assets/9cda88e4-986c-45f8-8880-e8126d927467)
 
-- identify 10 potential customers to buy your products and services （10人の潜在顧客特定）
-
-![Screenshot 2025-01-25 23 36 20](https://github.com/user-attachments/assets/d9f23ece-0fc4-4248-b1e8-01768a1d8c90)
-
-
-
-
-
-
-
-
-
-
+- identify 10 potential machine failure （10個の潜在故障プロダクト特定）
+  
+![Screenshot 2025-01-26 12 00 53](https://github.com/user-attachments/assets/e972807c-3706-47de-a1f0-21e1457f162d)
 
 
 
