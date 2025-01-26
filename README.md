@@ -1,5 +1,5 @@
 # AI-agent-for-Predictive-Maintenance_20250126
-AI-agent-for-Predictive Maintenance to identify potential  before it acttually happens in advance.
+AI-agent-for-Predictive Maintenance to identify potential  before it actually happens in advance.
 
 - Our AI continuously monitors equipment data, detecting early warning signs of potential failures. It's like having foresight, alerting you to issues before they become major problems.
 
